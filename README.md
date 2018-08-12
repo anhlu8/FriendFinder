@@ -10,4 +10,4 @@ The app will then display the name and picture of the user with the best overall
 * HTML
 * Node.js
 * Express
-* Heroku: https://git.heroku.com/secret-sierra-18819.git
+* Heroku: https://secret-sierra-18819.herokuapp.com/
